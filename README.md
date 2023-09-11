@@ -1,6 +1,7 @@
 # Myblog
 This is my blog website
-#Table of Contents
+#Table of Contents#
+
 Getting Started
 Prerequisites
 Installation
